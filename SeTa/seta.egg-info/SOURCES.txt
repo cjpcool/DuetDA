@@ -1,0 +1,7 @@
+README.md
+setup.py
+seta.egg-info/PKG-INFO
+seta.egg-info/SOURCES.txt
+seta.egg-info/dependency_links.txt
+seta.egg-info/requires.txt
+seta.egg-info/top_level.txt

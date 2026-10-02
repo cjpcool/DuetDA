@@ -7,6 +7,23 @@ This repo supports:
 - Meta-training a DuetDA data valuator
 - Training CGCNN/SchNet/ALIGNN with **DuetDA-only** data selection
 
+We appreciate your citations:
+~~~
+@inproceedings{duetda2026,
+author = {Chen, Jianpeng and Zhan, Wangzhi and Wang, Haohui and Fu, Dongqi and Zhou, Dawei},
+title = {DuetDA:  Decomposed and Dynamic Data Attribution with Model-State Gating for Accelerated Scientific Endeavors},
+year = {2026},
+isbn = {9798400722592},
+publisher = {Association for Computing Machinery},
+doi = {10.1145/3770855.3818877},
+booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2},
+pages = {10589–10600},
+numpages = {12},
+series = {KDD '26}
+}
+~~~
+
+
 ## 1) Environment
 
 Recommended: Python 3.10+.
